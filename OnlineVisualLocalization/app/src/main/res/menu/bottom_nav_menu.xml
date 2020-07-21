@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_upload"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/upload_image" />
+    <item
+        android:id="@+id/navigation_sfm"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/sfm" />
+    <item
+        android:id="@+id/navigation_download"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/download" />
+    <item
+        android:id="@+id/navigation_model_viewer"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="@string/_3dviewer" />
+</menu>

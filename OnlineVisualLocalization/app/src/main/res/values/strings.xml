@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ImageUpload</string>
+    <string name="upload">UPLOAD</string>
+    <string name="start_sfm">Start SFM</string>
+    <string name="download_ply">Download PLY</string>
+    <string name="visual_localization">Visual Localization</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="model_preview">Model Preview</string>
+    <string name="upload_image">Upload</string>
+    <string name="sfm">SFM</string>
+    <string name="download">Download</string>
+    <string name="open_model">Open model…</string>
+    <string name="load_sample">Load sample</string>
+    <string name="about">About…</string>
+    <string name="read_permission_failed">Please allow read permission to open model files.</string>
+    <string name="open_model_error">Failed to load model.</string>
+    <string name="open_model_success">Model loaded successfully.</string>
+    <string name="about_text">This app allows you to view 3D models that you have downloaded, or open 3D models directly from your browser. Supports STL, OBJ, and PLY models. Tap the VR button at the bottom to view the model in your VR headset!\n\nCopyright © 2017–2020 Dmitry Brant.</string>
+    <string name="_3dviewer">3DViewer</string>
+    <string name="visual_loc_intro">Click this button to select a new image, and localize the position where this image is captured by SIFT feature matching</string>
+    <string name="model_preview_intro">Click this button to preview the 3D point cloud reconstructed by Structure-from-Motion</string>
+    <string name="SfM_intro">Tell the server to start the SfM 3D recons with uploaded images</string>
+    <string name="download_ply_intro">Download the reconstructed 3D point cloud from server (as .ply file)</string>
+
+</resources>
